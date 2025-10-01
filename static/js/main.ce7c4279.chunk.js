@@ -521,7 +521,7 @@ if (!self.__WB_pmw) {
                                                     children: "Back"
                                                 })
                                             }), Object(C.jsx)("a", {
-                                                download: "callmeifyougetlostid.png",
+                                                download: "YouAreRealNiggaNow.png",
                                                 href: ie,
                                                 className: "btn mx-1 text-uppercase letter-spaced result-button mobile-buttons",
                                                 style: {
@@ -532,7 +532,7 @@ if (!self.__WB_pmw) {
                                                     children: ["Save To", Object(C.jsx)("br", {}), "Photos"]
                                                 })
                                             }), Object(C.jsx)("a", {
-                                                download: "callmeifyougetlostid.png",
+                                                download: "YouAreRealNiggaNow.png",
                                                 href: ie,
                                                 className: "btn mx-1 text-uppercase letter-spaced result-button desktop-buttons",
                                                 style: {
@@ -545,28 +545,6 @@ if (!self.__WB_pmw) {
                                             }), Object(C.jsx)("div", {
                                                 className: "split-rows",
                                                 children: "\xa0"
-                                            }), Object(C.jsx)("a", {
-                                                href: "https://www.facebook.com/sharer/sharer.php?u=https://www.callmeifyougetlost.com/generator",
-                                                target: "_blank",
-                                                className: "btn mx-1 text-uppercase letter-spaced result-button",
-                                                style: {
-                                                    width: 150,
-                                                    height: 56
-                                                },
-                                                children: Object(C.jsx)("strong", {
-                                                    children: "Share On Facebook"
-                                                })
-                                            }), Object(C.jsx)("a", {
-                                                href: "https://twitter.com/intent/tweet?url=https://www.callmeifyougetlost.com/generator&text=Get%20your%20passport%20and%20#callmeifyougetlost",
-                                                target: "_blank",
-                                                className: "btn mx-1 text-uppercase letter-spaced result-button",
-                                                style: {
-                                                    width: 150,
-                                                    height: 56
-                                                },
-                                                children: Object(C.jsx)("strong", {
-                                                    children: "Share On Twitter"
-                                                })
                                             })]
                                         })
                                     })]
